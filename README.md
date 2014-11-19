@@ -4,6 +4,6 @@ Getting and Cleaning Data - Course Project:
 2. Unzip it into a folder on your local drive:  C:\Users\yourname\Documents\R\
 3. Put run_analysis.R into C:\Users\yourname\Documents\R\UCI HAR Dataset\
 4. In RStudio: 
-        setwd("C:\\Users\\yourname\\Documents\\R\\UCI HAR Dataset\\")
-        source("run_analysis.R")
+        a) setwd("C:\\Users\\yourname\\Documents\\R\\UCI HAR Dataset\\") and
+        b) source("run_analysis.R")
 5. Use data <- read.table("data_set_with_the_averages.txt") to read the data.
